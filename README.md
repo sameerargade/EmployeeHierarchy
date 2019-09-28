@@ -32,17 +32,19 @@ Package Jar.
 
 ### Output
 
-Enter the absolute file path /home/sameer/input-employee2.txt
-Jamie
-	  Alan
-        Martin
-		    Alex
-	  Steve
-		    David
-	  Malcom
-invalid employees
-Jason
-	  Chantelle
-	  Julia
-Will
+	Enter the absolute file path /home/sameer/input-employee2.txt
+
+	Jamie
+	 		Alan
+       		Martin
+	    		Alex
+	 		Steve
+	    		David
+	 		Malcom
+	invalid employees
+	
+	Jason
+			Chantelle
+			Julia
+	Will
 
