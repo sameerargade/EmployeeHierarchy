@@ -48,3 +48,11 @@ Package Jar.
 			Julia
 	Will
 
+	Employees without manager
+	Employee{name=Julia}
+	Employee{name=Rosamund}
+	Employee{name=Jamie}
+	Employee{name=Kane}
+	Employee{name=Chantelle}
+
+
